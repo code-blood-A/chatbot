@@ -1,5 +1,4 @@
-
-    {
+{
   "questions": [
     {
       "question": "Hey",
@@ -56,6 +55,14 @@
     {
       "question": "what is your name?",
       "answer": "dssk"
+    },
+    {
+      "question": "what kind of chat bot you are",
+      "answer": "rule based chat bot"
+    },
+    {
+      "question": "can u help",
+      "answer": "yes"
     }
   ]
 }
